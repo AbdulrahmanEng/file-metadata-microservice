@@ -1,0 +1,1 @@
+console.log('Microservice is nominal.')
